@@ -1,1 +1,35 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+h3{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.content{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+input{
+   height: 2em;
+}
+button{
+    height: 2em;
+}
+ul{
+    list-style: none;
+}
+.ele1{
+    margin-right: 20rem;
+}
+.ele2{
+    margin-left: 20rem;
+}
+li{
+    padding:20px;
+}
 
