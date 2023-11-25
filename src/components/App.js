@@ -2,13 +2,13 @@
 import React from "react";
 import './../styles/App.css';
 import Heading from "./Heading";
-import InputFiled from "./InputFiled";
+import TodoList from "./TodoList";
 
 const App = () => {
   return (
     <div>
         <Heading />
-        <InputFiled />
+        <TodoList />
     </div>
   )
 }
